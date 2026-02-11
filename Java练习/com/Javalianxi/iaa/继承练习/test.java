@@ -1,4 +1,4 @@
-package Java小练习.Java练习.iaa.继承练习;
+package com.Javalianxi.iaa.继承练习;
 
 public class test {
      public static void main(String[] args) {

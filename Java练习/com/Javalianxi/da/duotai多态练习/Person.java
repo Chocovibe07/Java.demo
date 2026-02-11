@@ -1,4 +1,4 @@
-package Java小练习.Java练习.da.duotai多态练习;
+package com.Javalianxi.da.duotai多态练习;
 
 public class Person {
     private String name;
